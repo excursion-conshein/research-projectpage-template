@@ -1,4 +1,4 @@
-# 研究项目展示页面制作教程
+# Excursion ConsHein 研究项目展示页 (ECRP)
 
 [English Version](README.md) | 中文版
 
@@ -14,7 +14,7 @@
 
 ## 项目概述
 
-这个研究项目展示页面模板采用纯HTML/CSS/JavaScript开发，具有以下特点：
+ECRP 模板采用纯HTML/CSS/JavaScript开发，具有以下特点：
 - **模块化设计**：每个功能模块独立开发，便于维护
 - **响应式布局**：支持桌面端和移动端自适应
 - **配置驱动**：通过JSON配置文件管理内容，无需修改代码
