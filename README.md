@@ -1,8 +1,8 @@
-# Research Project Showcase Page Tutorial
+# Excursion ConsHein Research Projectpage (ECRP)
 
 English Version | [中文版](README_zh.md)
 
-This tutorial will guide you through creating a professional research project showcase page with modular design, easy to maintain and extend.
+This ECRP tutorial will guide you through creating a professional research project showcase page with modular design, easy to maintain and extend.
 
 **Disclaimer: This project template is for research and learning purposes only and does not involve any commercial use.**
 
@@ -14,7 +14,7 @@ This tutorial will guide you through creating a professional research project sh
 
 ## Project Overview
 
-This research project showcase page template is developed using pure HTML/CSS/JavaScript with the following features:
+ECRP template is developed using pure HTML/CSS/JavaScript with the following features:
 - **Modular Design**: Each functional module is developed independently for easy maintenance
 - **Responsive Layout**: Supports adaptive desktop and mobile devices
 - **Configuration-Driven**: Content managed through JSON configuration files, no code modification required
