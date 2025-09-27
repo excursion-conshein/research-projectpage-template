@@ -37,7 +37,7 @@ class CopyrightModule {
         // Create footer element
         this.footer = document.createElement('footer');
         this.footer.className = 'page-footer';
-        this.footer.innerHTML = 'powered by © <a href="https://github.com/Excursion-ConsHein/research-project-template" target="_blank">Research Project Page Template</a>';
+        this.footer.innerHTML = '© 2025 <a href="https://github.com/excursion-conshein/research-projectpage-template" target="_blank">Excursion ConsHein Research Projectpage (ECRP)</a>.';
         
         // Add footer to body (after main-container if it exists)
         const mainContainer = document.getElementById('main-container');
