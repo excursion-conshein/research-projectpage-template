@@ -1,4 +1,4 @@
-# Excursion ConsHein 研究项目展示页 (ECRP)
+# Excursion Studio 研究项目展示页 (ESRP)
 
 [English Version](README.md) | 中文版
 
@@ -14,7 +14,7 @@
 
 ## 项目概述
 
-ECRP 模板采用纯HTML/CSS/JavaScript开发，具有以下特点：
+ESRP 模板采用纯HTML/CSS/JavaScript开发，具有以下特点：
 - **模块化设计**：每个功能模块独立开发，便于维护
 - **响应式布局**：支持桌面端和移动端自适应
 - **配置驱动**：通过JSON配置文件管理内容，无需修改代码
@@ -554,6 +554,6 @@ A: 检查viewport设置，确保移动端适配模块正确加载
 
 如果你在使用过程中遇到问题，可以通过以下方式联系我们：
 - Email: Conshein_Yuanxing@outlook.com
-- GitHub: [Excursion-ConsHein](https://github.com/Excursion-ConsHein)
+- GitHub: [Excursion-Studio](https://github.com/Excursion-Studio)
 
 祝您可以创建属于自己心仪的研究项目展示页面！

@@ -1,8 +1,8 @@
-# Excursion ConsHein Research Projectpage (ECRP)
+# Excursion Studio Research Projectpage (ESRP)
 
 English Version | [中文版](README_zh.md)
 
-This ECRP tutorial will guide you through creating a professional research project showcase page with modular design, easy to maintain and extend.
+This ESRP tutorial will guide you through creating a professional research project showcase page with modular design, easy to maintain and extend.
 
 **Disclaimer: This project template is for research and learning purposes only and does not involve any commercial use.**
 
@@ -14,7 +14,7 @@ This ECRP tutorial will guide you through creating a professional research proje
 
 ## Project Overview
 
-ECRP template is developed using pure HTML/CSS/JavaScript with the following features:
+ESRP template is developed using pure HTML/CSS/JavaScript with the following features:
 - **Modular Design**: Each functional module is developed independently for easy maintenance
 - **Responsive Layout**: Supports adaptive desktop and mobile devices
 - **Configuration-Driven**: Content managed through JSON configuration files, no code modification required
@@ -555,6 +555,6 @@ This tutorial provides a complete guide for creating research project showcase p
 
 If you encounter problems during use, you can contact us through the following methods:
 - Email: Conshein_Yuanxing@outlook.com
-- GitHub: [Excursion-ConsHein](https://github.com/Excursion-ConsHein)
+- GitHub: [Excursion-Studio](https://github.com/Excursion-Studio)
 
 We hope you can create a research project showcase page that suits your needs!
